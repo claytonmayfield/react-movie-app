@@ -11,3 +11,73 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.MAIN{
+  background-color: lightblue;
+ 
+}
+.second{
+  display: flex;
+ 
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  font-size: larger;
+  font-family: fantasy;
+}
+.search{
+  display: flex;
+ 
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-right: 1em;
+  margin-bottom: 1em;
+ font-size: x-large;
+  font-family: fantasy;
+}
+.buttons{
+  display: flex;
+ 
+  justify-content: center;
+  margin-bottom: 1em;
+  
+ 
+}
+.movie{
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+ 
+ 
+}
+
+.dets{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1em;
+}
+.details{
+  background-color: lightblue;
+  height: 100vh;
+}
+.hMovie{
+  display: flex;
+  justify-content: center;
+font-family: fantasy;
+font-size: larger;
+  margin-bottom: 1em;
+}
+.page{
+  display: flex;
+  justify-content: center;
+
+}
+.text{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
